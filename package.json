@@ -4,7 +4,6 @@
   "version": "0.0.0",
   "type": "module",
   "homepage": "https://Sanjaykryadav.github.io/CalendarReactApp",
-
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -13,7 +12,6 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
- 
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
